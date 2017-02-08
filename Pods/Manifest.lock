@@ -1,0 +1,12 @@
+PODS:
+  - ProtocolBuffers (1.9.11)
+
+DEPENDENCIES:
+  - ProtocolBuffers (~> 1.9.11)
+
+SPEC CHECKSUMS:
+  ProtocolBuffers: d509225eb2ea43d9582a59e94348fcf86e2abd65
+
+PODFILE CHECKSUM: f2f5b6b1eeb2ca4d423de482dcf981d3249e782c
+
+COCOAPODS: 1.0.1
